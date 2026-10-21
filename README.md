@@ -1,0 +1,1 @@
+San Andreas Fire & Rescue website. Multi-page static site. Chief: Budd Wise — budd@firedept.gardenstatecollective.com. Recruitment page embeds the supplied Google Form. Deploy to Cloudflare Pages with no build command and output directory `.`. Fleet/news content includes sample placeholders. Roleplay site, not an official government website.

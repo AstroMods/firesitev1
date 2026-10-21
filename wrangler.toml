@@ -1,0 +1,5 @@
+name = "san-andreas-fire-rescue"
+compatibility_date = "2026-10-21"
+
+[assets]
+directory = "."
